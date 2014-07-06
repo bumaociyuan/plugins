@@ -10,6 +10,7 @@ xcode plugins:
 * `ksimage` https://github.com/ksuther/KSImageNamed-Xcode
 
 testing
+* `fui` https://github.com/dblock/fui#fui
 
 * `BBUDebuggerTuckAway` https://github.com/neonichu/BBUDebuggerTuckAway
 * `SCXcodeSwitchExpander` https://github.com/stefanceriu/SCXcodeSwitchExpander
