@@ -17,3 +17,5 @@ testing
 * `ClangFormat-Xcode` https://github.com/travisjeffery/ClangFormat-Xcode 
   
 
+sublime text 2
+* `sublimetext-codeformatter` https://github.com/akalongman/sublimetext-codeformatter
