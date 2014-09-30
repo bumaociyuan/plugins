@@ -7,6 +7,7 @@ sql use firefox extension ```sql lite manager```
 xcode plugins: 
 * `color sense` https://github.com/omz/ColorSense-for-Xcode
 * `ksimage` https://github.com/ksuther/KSImageNamed-Xcode
+* `VVDocumenter` https://github.com/onevcat/VVDocumenter-Xcode
 * `SCXcodeSwitchExpander` https://github.com/stefanceriu/SCXcodeSwitchExpander
 * `peckham` https://github.com/markohlebar/Peckham
 
