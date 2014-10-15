@@ -10,6 +10,7 @@ xcode plugins:
 * `VVDocumenter` https://github.com/onevcat/VVDocumenter-Xcode
 * `SCXcodeSwitchExpander` https://github.com/stefanceriu/SCXcodeSwitchExpander
 * `peckham` https://github.com/markohlebar/Peckham
+* `BBUncrustifyPlugin` https://github.com/benoitsan/BBUncrustifyPlugin-Xcode
 
 testing
 * `Alcatraz` https://github.com/supermarin/Alcatraz
