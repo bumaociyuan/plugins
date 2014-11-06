@@ -17,3 +17,6 @@ testing
 * `ClangFormat-Xcode` https://github.com/travisjeffery/ClangFormat-Xcode 
   
 
+safari plugins
+
+* `发烫` http://zythum.sinaapp.com/youkuhtml5playerbookmark/
