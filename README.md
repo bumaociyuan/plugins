@@ -21,3 +21,6 @@ testing
 
 sublime text 2
 * `sublimetext-codeformatter` https://github.com/akalongman/sublimetext-codeformatter
+
+safari plugins
+* `发烫` http://zythum.sinaapp.com/youkuhtml5playerbookmark/
