@@ -17,7 +17,7 @@ testing
 * `fui` https://github.com/dblock/fui#fui
 * `BBUDebuggerTuckAway` https://github.com/neonichu/BBUDebuggerTuckAway
 * `ClangFormat-Xcode` https://github.com/travisjeffery/ClangFormat-Xcode 
-* `vimperator` ./blabla  
+* `vimperator` http://www.vimperator.org/vimperator/  
 
 sublime text 2
 * `sublimetext-codeformatter` https://github.com/akalongman/sublimetext-codeformatter
