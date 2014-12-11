@@ -28,3 +28,6 @@ sublime text 2
 
 safari plugins
 * `发烫` http://zythum.sinaapp.com/youkuhtml5playerbookmark/
+
+chrome plugins
+* `gooreplacer4chrome` https://github.com/jiacai2050/gooreplacer4chrome
