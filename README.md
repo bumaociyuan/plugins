@@ -19,10 +19,6 @@ testing
 * `ClangFormat-Xcode` https://github.com/travisjeffery/ClangFormat-Xcode 
 * `vimperator` http://www.vimperator.org/vimperator/  
 
-safari plugins
-
-* `发烫` http://zythum.sinaapp.com/youkuhtml5playerbookmark/
-
 sublime text 2
 * `sublimetext-codeformatter` https://github.com/akalongman/sublimetext-codeformatter
 
