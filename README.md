@@ -1,7 +1,7 @@
 
 database app
 http://www.sequelpro.com/download
-sql use firefox extension ```sql lite manager```
+sql use firefox extension ```SQLite Manager```
 
 
 xcode plugins: 
