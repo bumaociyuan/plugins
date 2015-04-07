@@ -12,6 +12,7 @@ xcode plugins:
 * `SCXcodeSwitchExpander` https://github.com/stefanceriu/SCXcodeSwitchExpander
 * `peckham` https://github.com/markohlebar/Peckham
 * `BBUncrustifyPlugin` https://github.com/benoitsan/BBUncrustifyPlugin-Xcode
+* `xCodeGenerateDescriptionPlugin` https://github.com/adamontherun/xCodeGenerateDescriptionPlugin
 
 testing
 * `Alcatraz` https://github.com/supermarin/Alcatraz
