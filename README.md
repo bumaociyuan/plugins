@@ -35,3 +35,8 @@ vim plugins
 
 vim color themes
 * `badwolf` https://github.com/sjl/badwolf/
+
+todo 
+增加一个类似
+https://raw.githubusercontent.com/supermarin/alcatraz-packages/master/packages.json
+的配置 通过 Alcatraz 自动安装插件
