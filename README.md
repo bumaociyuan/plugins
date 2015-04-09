@@ -27,3 +27,9 @@ safari plugins
 
 chrome plugins
 * `gooreplacer4chrome` https://github.com/jiacai2050/gooreplacer4chrome
+
+vim plugins
+* `vim-surround` https://github.com/tpope/vim-surround
+
+vim color themes
+* `badwolf` https://github.com/sjl/badwolf/
