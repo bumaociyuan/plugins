@@ -1,10 +1,11 @@
 {
   "packages": {
     "plugins": [
-          {
-                      "name": "XcodeColors",
-                              "url": "https://github.com/DeepIT/XcodeColors",
-                                      "description": "xcode colors"
-                                            }
+        {
+        "name": "CocoaPods",
+        "url": "https://github.com/kattrali/cocoapods-xcode-plugin",
+        "description": "CocoaPods integration right in Xcode",
+        "screenshot": "https://raw.github.com/kattrali/cocoapods-xcode-plugin/master/menu.png"
+      }
     ]
   }}
