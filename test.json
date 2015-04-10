@@ -1,0 +1,10 @@
+{
+  "packages": {
+    "plugins": [
+          {
+                      "name": "XVim",
+                              "url": "https://github.com/DeepIT/XcodeColors",
+                                      "description": "Xcode plugin for Vim keybindings"
+                                            }
+    ]
+  }}
