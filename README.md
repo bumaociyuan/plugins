@@ -12,6 +12,7 @@ xcode plugins:
 * `SCXcodeSwitchExpander` https://github.com/stefanceriu/SCXcodeSwitchExpander
 * `peckham` https://github.com/markohlebar/Peckham
 * `BBUncrustifyPlugin` https://github.com/benoitsan/BBUncrustifyPlugin-Xcode
+* `xCodeGenerateDescriptionPlugin` https://github.com/adamontherun/xCodeGenerateDescriptionPlugin
 
 testing
 * `Alcatraz` https://github.com/supermarin/Alcatraz
@@ -28,3 +29,14 @@ safari plugins
 
 chrome plugins
 * `gooreplacer4chrome` https://github.com/jiacai2050/gooreplacer4chrome
+
+vim plugins
+* `vim-surround` https://github.com/tpope/vim-surround
+
+vim color themes
+* `badwolf` https://github.com/sjl/badwolf/
+
+todo 
+增加一个类似
+https://raw.githubusercontent.com/supermarin/alcatraz-packages/master/packages.json
+的配置 通过 Alcatraz 自动安装插件
