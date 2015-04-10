@@ -49,11 +49,6 @@
         "description": "Button for quickly deleting derived data. Makes Xcode happy.",
         "screenshot": "https://github.com/kattrali/deriveddata-exterminator/raw/master/docs/menu.png"
       },
-      {
-        "name": "DXXcodeConsoleUnicodePlugin",
-        "url": "https://github.com/dhcdht/DXXcodeConsoleUnicodePlugin",
-        "description": "Convert unicode string to Human-readable in xcode 5+ console."
-      },
 
       {
         "name": "KSImageNamed",
@@ -61,15 +56,29 @@
         "description": "Xcode plug-in that provides autocomplete for imageNamed: calls",
         "screenshot": "https://raw.github.com/ksuther/KSImageNamed-Xcode/master/screenshot.png"
       },
-
-
      
       {
         "name": "OMColorSense",
         "url": "https://github.com/omz/ColorSense-for-Xcode",
         "description": "Xcode plugin that makes working with UIColor (and NSColor) more visual."
       },
-    
+      {
+        "name": "XVim",
+        "url": "https://github.com/JugglerShu/XVim",
+        "description": "Xcode plugin for Vim keybindings"
+      },
+      {
+        "name": "SCXcodeSwitchExpander",
+        "url": "https://github.com/stefanceriu/SCXcodeSwitchExpander",
+        "description": "Xcode plugin that enables switch cases autocompletion",
+        "screenshot": "https://dl.dropboxusercontent.com/u/12748201/SCXcodeSwitchExpander/SCXcodeSwitchExpander.gif"
+      },
+      {
+        "name": "VVDocumenter-Xcode",
+        "url": "https://github.com/onevcat/VVDocumenter-Xcode",
+        "description": "Xcode plug-in which helps you write Javadoc style documents easier.",
+        "screenshot": "https://raw.github.com/onevcat/VVDocumenter-Xcode/master/ScreenShot.gif"
+      },
       {
         "name": "Peckham",
         "url": "https://github.com/markohlebar/Peckham",
