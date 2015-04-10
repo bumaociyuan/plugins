@@ -30,20 +30,6 @@
       },
 
       {
-        "name": "CocoaPods",
-        "url": "https://github.com/kattrali/cocoapods-xcode-plugin",
-        "description": "CocoaPods integration right in Xcode",
-        "screenshot": "https://raw.github.com/kattrali/cocoapods-xcode-plugin/master/menu.png"
-      },
-      {
-        "name": "CocoaPodUI",
-        "url": "https://github.com/Galeas/CocoaPodUI",
-        "description": "Xcode plugin that implements CocoaPods GUI.",
-        "screenshot": "https://raw.githubusercontent.com/Galeas/CocoaPodUI/master/readme.png"
-      },
-
-
-      {
         "name": "DerivedData Exterminator",
         "url": "https://github.com/kattrali/deriveddata-exterminator",
         "description": "Button for quickly deleting derived data. Makes Xcode happy.",
