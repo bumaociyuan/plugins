@@ -5,21 +5,7 @@ sql use firefox extension ```SQLite Manager```
 
 
 xcode plugins: 
-* `color sense` https://github.com/omz/ColorSense-for-Xcode
-* `ksimage` https://github.com/ksuther/KSImageNamed-Xcode
-* `XVim` https://github.com/XVimProject/XVim
-* `VVDocumenter` https://github.com/onevcat/VVDocumenter-Xcode
-* `SCXcodeSwitchExpander` https://github.com/stefanceriu/SCXcodeSwitchExpander
-* `peckham` https://github.com/markohlebar/Peckham
-* `BBUncrustifyPlugin` https://github.com/benoitsan/BBUncrustifyPlugin-Xcode
-* `xCodeGenerateDescriptionPlugin` https://github.com/adamontherun/xCodeGenerateDescriptionPlugin
-
-testing
-* `Alcatraz` https://github.com/supermarin/Alcatraz
-* `fui` https://github.com/dblock/fui#fui
-* `BBUDebuggerTuckAway` https://github.com/neonichu/BBUDebuggerTuckAway
-* `ClangFormat-Xcode` https://github.com/travisjeffery/ClangFormat-Xcode 
-* `vimperator` http://www.vimperator.org/vimperator/  
+using [Alcatraz](https://github.com/supermarin/Alcatraz) load [current using.json](https://github.com/bumaociyuan/plugins/blob/master/Alcatraz/using.json)
 
 sublime text 2
 * `sublimetext-codeformatter` https://github.com/akalongman/sublimetext-codeformatter
@@ -30,6 +16,7 @@ safari plugins
 chrome plugins
 * `gooreplacer4chrome` https://github.com/jiacai2050/gooreplacer4chrome
 * `remove-google-redirection` https://chrome.google.com/webstore/detail/remove-google-redirection/dnhjklgpiifbofihffldllbcopkinlod/related?hl=en
+* `vimperator` http://www.vimperator.org/vimperator/  
 
 vim plugins
 * `vim-surround` https://github.com/tpope/vim-surround
