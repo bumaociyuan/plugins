@@ -1,28 +1,28 @@
 
-database app
-http://www.sequelpro.com/download
-sql use firefox extension ```SQLite Manager```
 
 
-xcode plugins: 
-using [Alcatraz](https://github.com/supermarin/Alcatraz) load [current using.json](https://github.com/bumaociyuan/plugins/blob/master/Alcatraz/using.json)
 
-sublime text 2
+##xcode 
+using [Alcatraz](https://github.com/supermarin/Alcatraz) load [current using.json](https://github.com/bumaociyuan/plugins/blob/master/Alcatraz/using.json) `https://raw.githubusercontent.com/bumaociyuan/plugins/master/Alcatraz/good.json`
+
+##sublime
 * `sublimetext-codeformatter` https://github.com/akalongman/sublimetext-codeformatter
 
-safari plugins
+##safari
 * `发烫` http://zythum.sinaapp.com/youkuhtml5playerbookmark/
 
-chrome plugins
+##chrome
 * `gooreplacer4chrome` https://github.com/jiacai2050/gooreplacer4chrome
 * `remove-google-redirection` https://chrome.google.com/webstore/detail/remove-google-redirection/dnhjklgpiifbofihffldllbcopkinlod/related?hl=en
 * `vimperator` http://www.vimperator.org/vimperator/  
 
-vim plugins
+##vim
 * `vim-surround` https://github.com/tpope/vim-surround
 
-vim color themes
+##vim color themes
 * `badwolf` https://github.com/sjl/badwolf/
 
-Alcatraz 自动安装插件配置
-https://raw.githubusercontent.com/bumaociyuan/plugins/master/packages.json
+
+database app
+http://www.sequelpro.com/download
+sql use firefox extension `SQLite Manager`
