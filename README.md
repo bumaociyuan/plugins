@@ -29,6 +29,7 @@ safari plugins
 
 chrome plugins
 * `gooreplacer4chrome` https://github.com/jiacai2050/gooreplacer4chrome
+* `remove-google-redirection` https://chrome.google.com/webstore/detail/remove-google-redirection/dnhjklgpiifbofihffldllbcopkinlod/related?hl=en
 
 vim plugins
 * `vim-surround` https://github.com/tpope/vim-surround
