@@ -1,0 +1,12 @@
+{
+  "packages": {
+    "plugins": [
+
+      {
+        "name": "XVim",
+        "url": "https://github.com/JugglerShu/XVim",
+        "description": "Xcode plugin for Vim keybindings"
+      }
+    ]
+  }
+}
