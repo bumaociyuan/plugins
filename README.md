@@ -3,7 +3,7 @@
 
 
 ##xcode 
-using [Alcatraz](https://github.com/supermarin/Alcatraz) load [current using.json](https://github.com/bumaociyuan/plugins/blob/master/Alcatraz/using.json) `https://raw.githubusercontent.com/bumaociyuan/plugins/master/Alcatraz/good.json`
+using [Alcatraz](https://github.com/supermarin/Alcatraz) load [current using.json](https://github.com/bumaociyuan/plugins/blob/master/Alcatraz/using.json) `https://raw.githubusercontent.com/bumaociyuan/plugins/master/Alcatraz/using.json`
 
 ##sublime
 * `sublimetext-codeformatter` https://github.com/akalongman/sublimetext-codeformatter
