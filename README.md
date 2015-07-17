@@ -23,6 +23,14 @@ Using [Alcatraz](https://github.com/supermarin/Alcatraz) load [current using.jso
 * `badwolf` https://github.com/sjl/badwolf/
 
 
-database app
+##preview
+* `quick-look-plugins` https://github.com/sindresorhus/quick-look-plugins
+
+	```
+	#install 
+	brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package
+	```
+
+##database
 http://www.sequelpro.com/download
 sql use firefox extension `SQLite Manager`
