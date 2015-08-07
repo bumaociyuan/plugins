@@ -20,6 +20,10 @@ Using [Alcatraz](https://github.com/supermarin/Alcatraz) load [current using.jso
 * `Remove Google Redirection` https://chrome.google.com/webstore/detail/remove-google-redirection/dnhjklgpiifbofihffldllbcopkinlod
 * `Postman` https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
 
+##status bar
+* `spectacle` https://github.com/eczarny/spectacle
+* `flycut` search in appstore app
+
 ##vim
 * `vim-surround` https://github.com/tpope/vim-surround
 
