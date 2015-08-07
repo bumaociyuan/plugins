@@ -15,6 +15,10 @@ Using [Alcatraz](https://github.com/supermarin/Alcatraz) load [current using.jso
 * `gooreplacer4chrome` https://github.com/jiacai2050/gooreplacer4chrome
 * `remove-google-redirection` https://chrome.google.com/webstore/detail/remove-google-redirection/dnhjklgpiifbofihffldllbcopkinlod/related?hl=en
 * `vimperator` http://www.vimperator.org/vimperator/  
+* `crxMouse` https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo
+* `搜索直达` https://chrome.google.com/webstore/detail/%E6%90%9C%E7%B4%A2%E7%9B%B4%E8%BE%BE/mkpejojlockjoldbdbbgbibeogmemjfk
+* `Remove Google Redirection` https://chrome.google.com/webstore/detail/remove-google-redirection/dnhjklgpiifbofihffldllbcopkinlod
+* `Postman` https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
 
 ##vim
 * `vim-surround` https://github.com/tpope/vim-surround
