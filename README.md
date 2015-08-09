@@ -10,6 +10,7 @@ Using [Alcatraz](https://github.com/supermarin/Alcatraz) load [current using.jso
 
 ##safari
 * `发烫` http://zythum.sinaapp.com/youkuhtml5playerbookmark/
+* `vimari` https://github.com/guyht/vimari
 
 ##chrome
 * `gooreplacer4chrome` https://github.com/jiacai2050/gooreplacer4chrome
