@@ -20,6 +20,10 @@ Using [Alcatraz](https://github.com/supermarin/Alcatraz) load [current using.jso
 * `搜索直达` https://chrome.google.com/webstore/detail/%E6%90%9C%E7%B4%A2%E7%9B%B4%E8%BE%BE/mkpejojlockjoldbdbbgbibeogmemjfk
 * `Remove Google Redirection` https://chrome.google.com/webstore/detail/remove-google-redirection/dnhjklgpiifbofihffldllbcopkinlod
 * `Postman` https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
+* `GitHub Awesome Autocomplete` https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd/related
+* `Octotree` https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc/related
+* `Lovely forks` https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib
+
 
 ##status bar
 * `spectacle` https://github.com/eczarny/spectacle
@@ -38,6 +42,9 @@ Using [Alcatraz](https://github.com/supermarin/Alcatraz) load [current using.jso
 	```
 	#install 
 	brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package
+
+	#tip Run this in your terminal to allow text selection in the Quick Look window:
+	defaults write com.apple.finder QLEnableTextSelection -bool true && killall Finder
 	```
 
 ##database
