@@ -25,6 +25,7 @@ Using [Alcatraz](https://github.com/supermarin/Alcatraz) load [current using.jso
 * `Lovely forks` https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib
 * `Thunder Download Helper - Lite` https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7-qq%E6%97%8B%E9%A3%8E-%E5%BF%AB%E8%BD%A6%E9%93%BE%E6%8E%A5%E8%87%AA%E5%8A%A8%E8%BD%AC%E6%8D%A2-%E6%9E%81%E7%AE%80%E7%89%88/ijacdiajfhmmglphbglbgjjldcpfkglj/related?hl=en
 * `cookie.txt export` https://chrome.google.com/webstore/detail/cookietxt-export/lopabhfecdfhgogdbojmaicoicjekelh?hl=en
+* `Tampermonkey` https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo [scripts](https://greasyfork.org/en/scripts)
 
 
 ##status bar
