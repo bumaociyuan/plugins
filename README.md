@@ -25,8 +25,12 @@ Using [Alcatraz](https://github.com/supermarin/Alcatraz) load [current using.jso
 * `Lovely forks` https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib
 * `Thunder Download Helper - Lite` https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7-qq%E6%97%8B%E9%A3%8E-%E5%BF%AB%E8%BD%A6%E9%93%BE%E6%8E%A5%E8%87%AA%E5%8A%A8%E8%BD%AC%E6%8D%A2-%E6%9E%81%E7%AE%80%E7%89%88/ijacdiajfhmmglphbglbgjjldcpfkglj/related?hl=en
 * `cookie.txt export` https://chrome.google.com/webstore/detail/cookietxt-export/lopabhfecdfhgogdbojmaicoicjekelh?hl=en
-* `Tampermonkey` https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo [scripts](https://greasyfork.org/en/scripts)
 
+##Tampermonkey
+* `百度云插件+APIKey` https://greasyfork.org/en/scripts/496-%E7%99%BE%E5%BA%A6%E4%BA%91%E6%8F%92%E4%BB%B6-apikey
+* `Download YouTube Videos as MP4` https://greasyfork.org/en/scripts/1317-download-youtube-videos-as-mp4
+* `vipVideos_skipAd` https://greasyfork.org/en/scripts/8561-vipvideos-skipad
+* `CSDN自动评论` https://greasyfork.org/en/scripts/9982-csdn%E8%87%AA%E5%8A%A8%E8%AF%84%E8%AE%BA
 
 ##status bar
 * `spectacle` https://github.com/eczarny/spectacle
